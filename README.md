@@ -2,7 +2,7 @@
 Playing around with README's. 
 
 <div align="center">
-  <a href="https://liyas-thomas.firebaseapp.com"><img src="https://gph.is/YZthaU" width="200"></a>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
   <br>
   <h1>Naveen Bandarage</h1>
   <sub>Built with ❤︎ by
